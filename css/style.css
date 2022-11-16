@@ -1,0 +1,38 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+header{
+    color:#333333;
+    margin: 0 auto;
+}
+body {
+    font: Arial;
+    line-height: normal;
+    color:#333333;
+    background: #efeee7;
+    padding: 0;
+    margin: 0 auto;
+    width:500px;
+}
+h1 {
+    font: #eee;
+    size: 28px;
+}
+h2 {
+    font: #eee;
+    size: 24px;
+}
+.container{
+    margin: 0 auto;
+    float: left;
+}
+#qualification{
+    font:bold;
+}
+#contact{
+    width:30%;
+}
+#link{
+    color:#d21034;
+}
